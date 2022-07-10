@@ -1,0 +1,23 @@
+Jarang Orang Tahu Ini Di Termux
+
+1. pkg install root-repo
+ini tuh repo tambahan yang bagus menurutku,
+karena tanpa abisin waktu buat setting2 sendiri, kecuali kalian dah pro bebaslah gimana kalian
+
+2. termux-create-package
+di sinih kalian bisa membuat paket sesuai selera, dan akan di simpan di repo lokal kalian, jadi ini ngak di sebar ke publik. lah ngapain!?, ya biar hemat waktu ngak nyeting2 melulu,, terkhusus untuk yg hpnya kentang kaya saya,,
+
+3. neofetch vs fatsfetch
+jujurly gue demen fastfetch, dia ringan, cepet, simple, tapi kembali ke pengguna sih
+
+4. buat server lokal, bisa akses publik
+nah yang ini banyak metodenya, berhubung saya pemula saya saranin pake firebase google ajah
+
+5. buat virtual server
+yap bener,, bisa jalanin banyak server di termux,, tinggal buat ajah mesin virtual sesuai kebutuhan,, tujuannya, biar fokus ke satu server, di satu mesin virtual,, gampang juga kan buat & hapus server,, trus install server tanpa menghapus seluruhnya,, metodenya lihat ajah kaya yang di pc,, dan penting nih,, memori hp kalian mencukupi ngak,, hehe
+
+6. backup data apapun
+untuk mengantisipsi sesutu yang tidak di ingingkan,, bisa lewat kartu memori ataupun lewat cloud. pake terabox yg gratisan ajh juga boleh. dijadikan file zip atau sejenis yah,, trus kasih kode yang panjang biar aman
+
+
+jangan lupa yang menyampaikan ini adalah seorang pemula. carilah banyak sumber untuk menemukan kesejatian kebenaran. #beh kang bijak
